@@ -1,0 +1,1 @@
+c:/Users/Anchal/Face-Recogntion-PyQt/Face_Detection_PyQt_Final/
