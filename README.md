@@ -8,7 +8,11 @@ You will need the following:
 ```pip install face-recognition```
 
 How to use the application:
+
 step1: Go to mainwindow.py and run the file.
-step2: An interface will appear, click on start
+
+step2: An interface will appear, click on start.
+
 step3: Once your face is detected, click on clocked in and once you are signing off click on clocked out.
-step4: The data is saved in the Attendance.csv file
+
+step4: The data is saved in the Attendance.csv file.
